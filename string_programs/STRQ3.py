@@ -1,5 +1,5 @@
 # revers words in given string in python
-strings = "arsalan is a boy"
+strings = "arsalan"
 st = []
 for char in strings[::-1]:
     st.append(char)
